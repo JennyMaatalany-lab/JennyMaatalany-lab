@@ -15,9 +15,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=500&lines=Made+with+love+%F0%9F%92%97;Code+%2B+coffee+%2B+you+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B8" alt="cute tagline" />
-
-</div>
 
 ---
 
